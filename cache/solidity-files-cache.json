@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\SEMESTER 5\\Blockchain Fundamental\\Scholarship\\contracts\\Scholarship.sol": {
+      "lastModificationDate": 1765102837986,
+      "contentHash": "6eedf98e1fd9f9ae08481b4edb740c0c",
+      "sourceName": "contracts/Scholarship.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./SimpleMultiSig.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Scholarship"
+      ]
+    },
+    "D:\\SEMESTER 5\\Blockchain Fundamental\\Scholarship\\contracts\\SimpleMultiSig.sol": {
+      "lastModificationDate": 1765102837986,
+      "contentHash": "d55bfb71e10b250482b15c7055ea500d",
+      "sourceName": "contracts/SimpleMultiSig.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "SimpleMultiSig"
+      ]
+    }
+  }
+}
